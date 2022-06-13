@@ -1,0 +1,29 @@
+[ {
+  "name" : "Admin",
+  "age" : 35,
+  "role" : "administrator"
+}, {
+  "name" : "Jonas",
+  "age" : 25,
+  "role" : "tester"
+}, {
+  "name" : "Antanas",
+  "age" : 30,
+  "role" : "developer"
+} , {
+  "name" : "Lukas",
+  "age" : 33,
+  "role" : "Scrum master"
+}, {
+  "name" : "Deividas",
+  "age" : 26,
+  "role" : "developer"
+}, {
+  "name" : "Justina",
+  "age" : 30,
+  "role" : "tester"
+}, {
+  "name" : "Karina",
+  "age" : 22,
+  "role" : "tester"
+}]

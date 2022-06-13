@@ -1,0 +1,51 @@
+[ {
+  "name" : "Jono java meetas",
+  "responsiblePerson" : "Jonas",
+  "description" : "Susitinkime, pamokysiu programuoti javos",
+  "category" : "CodeMonkey",
+  "type" : "Live",
+  "startDate" : "2022-06-15",
+  "endDate" : "2022-06-15",
+  "members" : [ {
+    "name" : "Jonas",
+    "age" : 25,
+    "role" : "tester"
+  }, {
+    "name" : "Antanas",
+    "age" : 30,
+    "role" : "developer"
+  }, {
+    "name" : "Deividas",
+    "age" : 26,
+    "role" : "developer"
+  }, {
+    "name" : "Karina",
+    "age" : 22,
+    "role" : "tester"
+  } ]
+}, {
+  "name" : "Karinos komandos susitikimas",
+  "responsiblePerson" : "Karina",
+  "description" : "Reikia nuspresti ka veiksime per team buildinga",
+  "category" : "TeamBuilding",
+  "type" : "Live",
+  "startDate" : "2022-06-30",
+  "endDate" : "2022-06-30",
+  "members" : [ {
+    "name" : "Karina",
+    "age" : 22,
+    "role" : "tester"
+  }, {
+    "name" : "Antanas",
+    "age" : 30,
+    "role" : "developer"
+  }, {
+    "name" : "Jonas",
+    "age" : 25,
+    "role" : "tester"
+  }, {
+    "name" : "Deividas",
+    "age" : 26,
+    "role" : "developer"
+  } ]
+} ]
