@@ -7,7 +7,7 @@
 - Press "Run" button
 
 ## My choises for building this web application
-I wrote the back-end of this application using Java usinžg Spring boot framework. the Controller class is responsible for taking requests made by the 
+I wrote the back-end of this application using Java using Spring boot framework. the Controller class is responsible for taking requests made by the 
 front-end and executes the needed function in Service. Service calls functions from the JsonController which communicates with this applictions makeshift
 database. the database is made of two json files: meetings.json, where the data about all the meeting is stored, and employees.json, where the information
 about employees are stored.
